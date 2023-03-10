@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+    margin-bottom: 4rem;
+  }
+  /* Since positioning the image, we need to help out the caption */
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+  
+  /* Declare heights because of positioning of img element */
+  .carousel-item {
+    height: 32rem;
+  }
+
+  body{
+    font-family: 'Tilt Neon', cursive;
+  }
+
+  .nav-link{
+    color: #000000;
+  }
+
+  .nav-link:hover{
+    background-color: #428536;
+    color: #FFFFFF;
+  }
+
+
+
+  img {
+    width: 100%;
+  }
+
+  .carousel-caption{
+    color: #FFFFFF;
+    text-shadow: 2px 2px 4px #000000;
+  }
+
+  .btn{
+    background-color: #428536;
+    border: 0;
+    text-shadow: none;
+    color: #FFFFFF;
+  }
+
+  .btn:hover{
+    background-color: #274F20;
+    color: #FFFFFF;
+  }
+
+  .bloomer{
+    color: #428536;
+  }
+
+  .card{
+    text-shadow: 2px 2px 4px #000000;
+  }
+
+  p{
+    color: #828181;
+  }
+
+  
